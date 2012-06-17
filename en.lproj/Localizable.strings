@@ -1,0 +1,44 @@
+/* 
+   Localizable.strings
+   iGraphAccel
+
+   Created by Giuseppe Tropea on 2/7/11.
+   Copyright 2011 Giuseppe Tropea. All rights reserved.
+ */
+
+// RootViewController
+"_APP_NAME_" = "iAccelGraph";
+"_NEW_CHART_" = "New graph";
+
+// PortraitView and LegendView
+"_AXIS_X_" = "Axis X";
+"_AXIS_Y_" = "Axis Y";
+"_AXIS_Z_" = "Axis Z";
+
+// NavigationBar
+"_START_" = "Start";
+"_STOP_" = "Stop";
+"_BACK_" = "Back";
+
+// AlertView
+"_SAVE_WITH_NAME_" = "Save with name:";
+"_SAVE_" = "Save";
+"_CANCEL_" = "Cancel";
+"_SAVING_" = "Saving";
+"_SAVE_SUCCESS_" = "Save success";
+"_SAVE_FAILED_" = "Save failed";
+"_OK_" = "Ok";
+"_ERROR_" = "Error";
+"_NAME_NOT_VALID_" = "Name not valid!";
+"_SAVED_PHOTO_ALBUM_" = "Screen saved in Photo Library!";
+"_RESETTING_" = "Reset";
+"_RESETTING_GRAPH_" = "Delete all the values of the graph?";
+"_YES_" = "Yes";
+"_NO_" = "No";
+
+// SettingsViewController
+"_SETTINGS_" = "Settings";
+"_SECONDS_" = "seconds";
+"_VALUES_" = "values";
+"_SET_INTERVAL_" = "Set interval:";
+"_STORE_LAST_" = "Store last:";

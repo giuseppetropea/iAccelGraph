@@ -1,0 +1,46 @@
+/* 
+   Localizable.strings
+   iGraphAccel
+
+   Created by Giuseppe Tropea on 2/7/11.
+   Copyright 2011 Giuseppe Tropea. All rights reserved.
+ */
+
+// RootViewController
+"_APP_NAME_" = "iAccelGraph";
+"_NEW_CHART_" = "Nuovo grafico";
+
+// PortraitView and LegendView
+"_AXIS_X_" = "Asse X";
+"_AXIS_Y_" = "Asse Y";
+"_AXIS_Z_" = "Asse Z";
+
+// NavigationBar
+"_START_" = "Avvia";
+"_STOP_" = "Ferma";
+"_BACK_" = "Indietro";
+
+// AlertView
+"_SAVE_WITH_NAME_" = "Salva con nome:";
+"_SAVE_" = "Salva";
+"_CANCEL_" = "Annulla";
+"_SAVING_" = "Salvataggio";
+"_SAVE_SUCCESS_" = "Salvataggio eseguito con successo";
+"_SAVE_FAILED_" = "Salvataggio fallito";
+"_OK_" = "Ok";
+"_ERROR_" = "Errore";
+"_NAME_NOT_VALID_" = "Nome non valido!";
+"_SAVED_PHOTO_ALBUM_" = "Screen salvato nel Rullino foto!";
+"_RESETTING_" = "Reset";
+"_RESETTING_GRAPH_" = "Cancellare tutti i valori del grafico?";
+"_YES_" = "Si";
+"_NO_" = "No";
+
+// SettingsViewController
+"_SETTINGS_" = "Impostazioni";
+"_SECONDS_" = "secondi";
+"_VALUES_" = "valori";
+"_SET_INTERVAL_" = "Campiona ogni:";
+"_STORE_LAST_" = "Conserva ultimi:";
+
+//[NSString stringWithFormat:@"%@",NSLocalizedString(@"_STRING_", @"")]
